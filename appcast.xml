@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MeetingRecorder</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Tue, 27 Oct 2026 09:31:57 -0300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# MeetingRecorder 0.3.0
+
+- Atualizações automáticas integradas ao aplicativo.
+- Opção **Verificar Atualizações…** no menu do app.
+- Canal público contém somente os pacotes compilados; código e gravações continuam privados.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/castilhodsgn/meeting-recorder-releases/main/releases/MeetingRecorder-0.3.0.zip" length="1354680" type="application/octet-stream" sparkle:edSignature="BMOS0/iE8IGUuT1W87TN48u4wBtjaDO2ArovknKfpPcBjw93JCPLshTg3/TQm3RB+vTxgFKJY4O/aMA2VaylCQ=="/>
+        </item>
+    </channel>
+</rss>
