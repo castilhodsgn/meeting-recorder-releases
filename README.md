@@ -6,8 +6,8 @@ privado e nenhuma gravação é enviada para cá.
 
 ## Instalação
 
-Baixe a versão mais recente na pasta `releases`, descompacte o arquivo e mova
-`MeetingRecorder.app` para a pasta Aplicativos.
+Baixe o [MeetingRecorder 0.3.1](releases/MeetingRecorder-0.3.1.zip), descompacte
+o arquivo e mova `MeetingRecorder.app` para a pasta Aplicativos.
 
 Depois da primeira instalação da versão 0.3.1, o próprio aplicativo verifica e
 instala atualizações usando o Sparkle.
