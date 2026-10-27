@@ -15,7 +15,7 @@
 - Opção **Verificar Atualizações…** no menu do app.
 - Canal público contém somente os pacotes compilados; código e gravações continuam privados.
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/castilhodsgn/meeting-recorder-releases/main/releases/MeetingRecorder-0.3.0.zip" length="1354680" type="application/octet-stream" sparkle:edSignature="BMOS0/iE8IGUuT1W87TN48u4wBtjaDO2ArovknKfpPcBjw93JCPLshTg3/TQm3RB+vTxgFKJY4O/aMA2VaylCQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/castilhodsgn/meeting-recorder-releases/main/releases/MeetingRecorder-0.3.0.zip" length="1354663" type="application/octet-stream" sparkle:edSignature="tPuk1wcc9d5YVeszs375S0j5/CF3I/UMpuk+0Q6+R8xDx0d3irv8DaUsqzGg/UFYPLdMU7hqLfTgWiJ40tNEBQ=="/>
         </item>
     </channel>
 </rss>
