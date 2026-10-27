@@ -3,6 +3,24 @@
     <channel>
         <title>MeetingRecorder</title>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Tue, 27 Oct 2026 09:42:26 -0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# MeetingRecorder 0.3.1
+
+- Corrige o carregamento do framework de atualizações dentro do pacote do app.
+- Adiciona o menu **Atualizações > Verificar Atualizações…**.
+- Mantém a verificação e a instalação automáticas pelo Sparkle.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/castilhodsgn/meeting-recorder-releases/main/releases/MeetingRecorder-0.3.1.zip" length="1354665" type="application/octet-stream" sparkle:edSignature="aAi8TTsBLf6DXy/klN3rbokgzrn5tmc6ol5QeL/T0U4ih+b27gKyUNCoJ0R666SOoET0RU7tVbJbA+pr0ZPOAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/castilhodsgn/meeting-recorder-releases/main/releases/MeetingRecorder4-3.delta" sparkle:deltaFrom="3" length="1142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wm1Y26XM20VvKYSUHS4gV8Vruwv8kX6/lRZRzH4GwMRLouq4DFUilNvo2T7oCVNQtEylgyONoJgS7qksIUvPDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Tue, 27 Oct 2026 09:31:57 -0300</pubDate>
             <sparkle:version>3</sparkle:version>
