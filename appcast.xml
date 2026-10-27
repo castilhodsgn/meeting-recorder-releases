@@ -3,6 +3,25 @@
     <channel>
         <title>MeetingRecorder</title>
         <item>
+            <title>0.3.2</title>
+            <pubDate>Tue, 27 Oct 2026 10:03:10 -0300</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# MeetingRecorder 0.3.2
+
+- Remove o painel flutuante exibido durante a gravação.
+- Mantém o status, o cronômetro e o botão de encerramento na janela principal.
+- A janela deixa de ficar sobre os demais aplicativos enquanto grava.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/castilhodsgn/meeting-recorder-releases/main/releases/MeetingRecorder-0.3.2.zip" length="1321008" type="application/octet-stream" sparkle:edSignature="AI5gLXVOIKs0F+trQtznYQ+BatrRGSwIPI3Gp6umrjkbgr/UDoSIwu69r8p2qWPjT0bFriqIINz2OBcLicrOAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/castilhodsgn/meeting-recorder-releases/main/releases/MeetingRecorder5-4.delta" sparkle:deltaFrom="4" length="94650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7bNRb+C8g8KZjzfSMKId0KMHmVcewXSvom/bmuZc8NZOyFbaxsQbri2IArh+QHa2pT9VjNxwoXOoyR7KuAlLDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/castilhodsgn/meeting-recorder-releases/main/releases/MeetingRecorder5-3.delta" sparkle:deltaFrom="3" length="94118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KbdHj/HcH7fxWPeF1uw/b33Ttvcr1D+d7pnYubExAUQ86dVOKIsCyvJPRZnaJA0bY+eyU86xTI8iZpdYm5hHCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Tue, 27 Oct 2026 09:42:26 -0300</pubDate>
             <sparkle:version>4</sparkle:version>
